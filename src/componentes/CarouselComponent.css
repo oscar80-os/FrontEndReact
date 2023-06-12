@@ -1,0 +1,26 @@
+/*estilos carousel*/
+/* Estilos para el contenedor principal */
+
+  
+  /* Estilos para el contenedor del carrusel */
+  .carousel-container {
+    position: relative;
+    top: 40px;
+    left: 450px;
+    width: 30%; /* Ajusta el ancho del carrusel al 50% de la pantalla */
+  }
+  
+  /* Estilos para las imágenes del carrusel */
+  .carousel-container .plato {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Estilos para los textos de leyenda */
+  .carousel-container .legend {
+    text-align: center;
+    color: #151313;
+    font-size: 28px;
+    margin-top: 20px;
+  }
+  
